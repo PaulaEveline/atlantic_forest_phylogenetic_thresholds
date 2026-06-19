@@ -1,7 +1,7 @@
 # Phylogenetic turnover thresholds in Atlantic Forest birds and anurans
 
 **Associated manuscript:**  
-Anunciação, P.R., Barros, F.M., Ribeiro, M.C. *et al.* Anthropogenic land-use change drives phylogenetic community turnover in Atlantic Forest vertebrates: ecological thresholds and conservation implications. *Journal of Applied Ecology* (under review).
+Anunciação, P.R., Barros, F.M., Ribeiro, M.C. *et al.* Phylogenetic Shifts in Anuran and Avian Communities Driven by Land-Use Change in the Atlantic Forest. *Journal of Applied Ecology* (under review).
 
 \---
 
